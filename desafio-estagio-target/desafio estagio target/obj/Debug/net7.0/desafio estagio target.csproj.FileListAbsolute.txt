@@ -1,0 +1,28 @@
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\bin\Debug\net7.0\desafio estagio target.exe
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\bin\Debug\net7.0\desafio estagio target.deps.json
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\bin\Debug\net7.0\desafio estagio target.runtimeconfig.json
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\bin\Debug\net7.0\desafio estagio target.dll
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\bin\Debug\net7.0\desafio estagio target.pdb
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.AssemblyInfoInputs.cache
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.AssemblyInfo.cs
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.csproj.CoreCompileInputs.cache
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.dll
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\obj\Debug\net7.0\refint\desafio estagio target.dll
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.pdb
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.genruntimeconfig.cache
+C:\Users\emers\source\repos\desafio estagio target\desafio estagio target\obj\Debug\net7.0\ref\desafio estagio target.dll
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\bin\Debug\net7.0\desafio estagio target.exe
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\bin\Debug\net7.0\desafio estagio target.deps.json
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\bin\Debug\net7.0\desafio estagio target.runtimeconfig.json
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\bin\Debug\net7.0\desafio estagio target.dll
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\bin\Debug\net7.0\desafio estagio target.pdb
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.AssemblyInfoInputs.cache
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.AssemblyInfo.cs
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.csproj.CoreCompileInputs.cache
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.dll
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\obj\Debug\net7.0\refint\desafio estagio target.dll
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.pdb
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\obj\Debug\net7.0\desafio estagio target.genruntimeconfig.cache
+C:\Users\emers\Source\Repos\desafio-estagio-target\desafio estagio target\obj\Debug\net7.0\ref\desafio estagio target.dll
